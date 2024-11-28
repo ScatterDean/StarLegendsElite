@@ -1,1 +1,1 @@
-{11,'1.08','https://download1339.mediafire.com/yxm7w08ijb2g2UXbXWdxsDBi59YT9RLlRI85OGtpTV6UKkfWo_hpnM32Yxe8m8p5Kp1R-IsKKjOjYx40S7SxGGUm5cV8Vrm_ra05W-LuDLFdkRZEj-fNt2z6R-bWPFq5qWbTAz4MIC5wNF4OGoJ-5igyyZ16x3hEYxVX-pmtET9KOT1U/qcwennrfv69deun/v1.02.zip'}
+{12,'1.09','https://www.mediafire.com/file_premium/qcwennrfv69deun/v1.02.zip/file'}
